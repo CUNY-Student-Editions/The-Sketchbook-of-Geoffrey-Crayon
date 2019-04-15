@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="https://ebooks.adelaide.edu.au/i/irving/washington/i72s/" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (3.31.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>The Sketch Book of Geoffrey Crayon, Gent.</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>Title</text>
+      </navLabel>
+      <content src="title.html"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="copyright.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>Contents</text>
+      </navLabel>
+      <content src="contents.html"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>Preface to Revised Edition</text>
+      </navLabel>
+      <content src="preface.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5">
+      <navLabel>
+        <text>Advertisements</text>
+      </navLabel>
+      <content src="advertisement.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6">
+      <navLabel>
+        <text>The Author's Account of Himself</text>
+      </navLabel>
+      <content src="himself.html"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7">
+      <navLabel>
+        <text>The Voyage</text>
+      </navLabel>
+      <content src="voyage.html"/>
+    </navPoint>
+    <navPoint id="num_8" playOrder="8">
+      <navLabel>
+        <text>Roscoe</text>
+      </navLabel>
+      <content src="roscoe.html"/>
+    </navPoint>
+    <navPoint id="num_9" playOrder="9">
+      <navLabel>
+        <text>The Wife</text>
+      </navLabel>
+      <content src="wife.html"/>
+    </navPoint>
+    <navPoint id="num_10" playOrder="10">
+      <navLabel>
+        <text>Rip van Winkle</text>
+      </navLabel>
+      <content src="r_winkle.html"/>
+    </navPoint>
+    <navPoint id="num_11" playOrder="11">
+      <navLabel>
+        <text>English Writers on America</text>
+      </navLabel>
+      <content src="america.html"/>
+    </navPoint>
+    <navPoint id="num_12" playOrder="12">
+      <navLabel>
+        <text>Rural Life in England</text>
+      </navLabel>
+      <content src="r_life.html"/>
+    </navPoint>
+    <navPoint id="num_13" playOrder="13">
+      <navLabel>
+        <text>The Broken Heart</text>
+      </navLabel>
+      <content src="b_heart.html"/>
+    </navPoint>
+    <navPoint id="num_14" playOrder="14">
+      <navLabel>
+        <text>The Art of Book-making</text>
+      </navLabel>
+      <content src="art_book.html"/>
+    </navPoint>
+    <navPoint id="num_15" playOrder="15">
+      <navLabel>
+        <text>A Royal Poet</text>
+      </navLabel>
+      <content src="r_poet.html"/>
+    </navPoint>
+    <navPoint id="num_16" playOrder="16">
+      <navLabel>
+        <text>The Country Church</text>
+      </navLabel>
+      <content src="c_church.html"/>
+    </navPoint>
+    <navPoint id="num_17" playOrder="17">
+      <navLabel>
+        <text>The Widow and Her Son</text>
+      </navLabel>
+      <content src="widow.html"/>
+    </navPoint>
+    <navPoint id="num_18" playOrder="18">
+      <navLabel>
+        <text>The Boar's Head Tavern</text>
+      </navLabel>
+      <content src="b_tavern.html"/>
+    </navPoint>
+    <navPoint id="num_19" playOrder="19">
+      <navLabel>
+        <text>The Mutability of Literature</text>
+      </navLabel>
+      <content src="mutabili.html"/>
+    </navPoint>
+    <navPoint id="num_20" playOrder="20">
+      <navLabel>
+        <text>Rural Funerals</text>
+      </navLabel>
+      <content src="funerals.html"/>
+    </navPoint>
+    <navPoint id="num_21" playOrder="21">
+      <navLabel>
+        <text>The Inn Kitchen</text>
+      </navLabel>
+      <content src="kitchen.html"/>
+    </navPoint>
+    <navPoint id="num_22" playOrder="22">
+      <navLabel>
+        <text>The Spectre Bridegroom</text>
+      </navLabel>
+      <content src="spectre.html"/>
+    </navPoint>
+    <navPoint id="num_23" playOrder="23">
+      <navLabel>
+        <text>Westminster Abbey</text>
+      </navLabel>
+      <content src="w_abbey.html"/>
+    </navPoint>
+    <navPoint id="num_24" playOrder="24">
+      <navLabel>
+        <text>Christmas</text>
+      </navLabel>
+      <content src="christma.html"/>
+    </navPoint>
+    <navPoint id="num_25" playOrder="25">
+      <navLabel>
+        <text>The Stage Coach</text>
+      </navLabel>
+      <content src="st_coach.html"/>
+    </navPoint>
+    <navPoint id="num_26" playOrder="26">
+      <navLabel>
+        <text>Christmas Eve</text>
+      </navLabel>
+      <content src="c_eve.html"/>
+    </navPoint>
+    <navPoint id="num_27" playOrder="27">
+      <navLabel>
+        <text>Christmas Day</text>
+      </navLabel>
+      <content src="c_day.html"/>
+    </navPoint>
+    <navPoint id="num_28" playOrder="28">
+      <navLabel>
+        <text>The Christmas Dinner</text>
+      </navLabel>
+      <content src="c_dinner.html"/>
+    </navPoint>
+    <navPoint id="num_29" playOrder="29">
+      <navLabel>
+        <text>Little Britain</text>
+      </navLabel>
+      <content src="britain.html"/>
+    </navPoint>
+    <navPoint id="num_30" playOrder="30">
+      <navLabel>
+        <text>Stratford-on-Avon</text>
+      </navLabel>
+      <content src="stratfor.html"/>
+    </navPoint>
+    <navPoint id="num_31" playOrder="31">
+      <navLabel>
+        <text>Traits of Indian Character</text>
+      </navLabel>
+      <content src="t_indian.html"/>
+    </navPoint>
+    <navPoint id="num_32" playOrder="32">
+      <navLabel>
+        <text>Philip of Pokanoket An Indian Memoir</text>
+      </navLabel>
+      <content src="philip_p.html"/>
+    </navPoint>
+    <navPoint id="num_33" playOrder="33">
+      <navLabel>
+        <text>The Legend of Sleepy Hollow</text>
+      </navLabel>
+      <content src="s_hollow.html"/>
+    </navPoint>
+    <navPoint id="num_34" playOrder="34">
+      <navLabel>
+        <text>A Sunday in London</text>
+      </navLabel>
+      <content src="sunday.html"/>
+    </navPoint>
+    <navPoint id="num_35" playOrder="35">
+      <navLabel>
+        <text>London Antiques</text>
+      </navLabel>
+      <content src="antiques.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

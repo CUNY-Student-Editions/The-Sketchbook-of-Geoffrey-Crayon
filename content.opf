@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="path" prefix="calibre: https://calibre-ebook.com">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title id="id">The Sketch Book of Geoffrey Crayon, Gent.</dc:title>
+    <dc:creator id="id-1">Washington Irving, 1783-1859</dc:creator>
+    <dc:identifier>calibre:24</dc:identifier>
+    <dc:identifier>uuid:97d81ec7-e2a6-4972-9aa0-f3a60eb72c8b</dc:identifier>
+    <dc:identifier id="path">https://ebooks.adelaide.edu.au/i/irving/washington/i72s/</dc:identifier>
+    <dc:type>text</dc:type>
+    <dc:format>text/html</dc:format>
+    <dc:language>en</dc:language>
+    <dc:date>2018-08-01T04:00:00+00:00</dc:date>
+    <dc:description>&lt;div&gt;&lt;p class="description" style="font-family: 'Segoe UI', sans-serif; font-size: 13px;"&gt;&lt;i&gt;The Sketch Book of Geoffrey Crayon, Gent.&lt;/i&gt;, by Washington Irving&lt;/p&gt;&lt;p class="description" style="font-family: 'Segoe UI', sans-serif; font-size: 13px;"&gt;Originally published 1819-1820&lt;/p&gt;&lt;p class="description" style="font-family: 'Segoe UI', sans-serif; font-size: 13px;"&gt;Author's Revised Edition published 1848&lt;/p&gt;&lt;ul class="meta-list-primary" style="box-sizing: border-box; padding-left: 0px; margin-top: 0px; margin-bottom: 0px; list-style-type: none; orphans: 2; text-align: start; text-indent: 0px; widows: 2;"&gt;&lt;li style="box-sizing: border-box; width: 1135px; break-inside: avoid;"&gt;&lt;div class="meta-value" style="box-sizing: border-box; margin-top: 4px; margin-bottom: 0.95em;"&gt;This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.&lt;br style="box-sizing: border-box;"&gt;&lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;http://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;&lt;p style="box-sizing: border-box; margin: 0px;"&gt;&lt;/p&gt;&lt;p style="box-sizing: border-box; margin: 0px;"&gt;&lt;br&gt;&lt;/p&gt;&lt;p style="box-sizing: border-box; margin: 0px;"&gt;Produced by Paul L. Hebert&lt;br style="box-sizing: border-box;"&gt;The Graduate Center, CUNY&lt;br&gt;&lt;span style="orphans: auto; widows: auto;"&gt;Last Update: 20 Aug. 2018.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</dc:description>
+    <dc:subject>Catskill Mountains Region (N.Y.)</dc:subject>
+    <dc:subject>Christmas</dc:subject>
+    <dc:subject>Description and Travel</dc:subject>
+    <dc:subject>England</dc:subject>
+    <dc:subject>Fiction</dc:subject>
+    <dc:subject>Hudson River Valley (N.Y. and N.J.)</dc:subject>
+    <meta refines="#id" property="title-type">main</meta>
+    <meta refines="#id" property="file-as">Sketch Book of Geoffrey Crayon, The</meta>
+    <meta name="cover" content="cover-image"/>
+    <meta property="dcterms:modified">2018-09-11T01:49:32Z</meta>
+    <meta property="role" refines="#id-1" scheme="marc:relators">aut</meta>
+    <meta property="file-as" refines="#id-1">Irving, Washington</meta>
+    <meta property="calibre:author_link_map">{"Washington Irving, 1783-1859": ""}</meta>
+  </metadata>
+  <manifest>
+    <item id="index" href="title.html" media-type="application/xhtml+xml"/>
+    <item id="contents" href="contents.html" media-type="application/xhtml+xml"/>
+    <item id="himself" href="himself.html" media-type="application/xhtml+xml"/>
+    <item id="voyage" href="voyage.html" media-type="application/xhtml+xml"/>
+    <item id="roscoe" href="roscoe.html" media-type="application/xhtml+xml"/>
+    <item id="wife" href="wife.html" media-type="application/xhtml+xml"/>
+    <item id="r_winkle" href="r_winkle.html" media-type="application/xhtml+xml"/>
+    <item id="america" href="america.html" media-type="application/xhtml+xml"/>
+    <item id="r_life" href="r_life.html" media-type="application/xhtml+xml"/>
+    <item id="b_heart" href="b_heart.html" media-type="application/xhtml+xml"/>
+    <item id="art_book" href="art_book.html" media-type="application/xhtml+xml"/>
+    <item id="r_poet" href="r_poet.html" media-type="application/xhtml+xml"/>
+    <item id="c_church" href="c_church.html" media-type="application/xhtml+xml"/>
+    <item id="widow" href="widow.html" media-type="application/xhtml+xml"/>
+    <item id="b_tavern" href="b_tavern.html" media-type="application/xhtml+xml"/>
+    <item id="mutabili" href="mutabili.html" media-type="application/xhtml+xml"/>
+    <item id="funerals" href="funerals.html" media-type="application/xhtml+xml"/>
+    <item id="kitchen" href="kitchen.html" media-type="application/xhtml+xml"/>
+    <item id="spectre" href="spectre.html" media-type="application/xhtml+xml"/>
+    <item id="w_abbey" href="w_abbey.html" media-type="application/xhtml+xml"/>
+    <item id="christma" href="christma.html" media-type="application/xhtml+xml"/>
+    <item id="st_coach" href="st_coach.html" media-type="application/xhtml+xml"/>
+    <item id="c_eve" href="c_eve.html" media-type="application/xhtml+xml"/>
+    <item id="c_day" href="c_day.html" media-type="application/xhtml+xml"/>
+    <item id="c_dinner" href="c_dinner.html" media-type="application/xhtml+xml"/>
+    <item id="britain" href="britain.html" media-type="application/xhtml+xml"/>
+    <item id="stratfor" href="stratfor.html" media-type="application/xhtml+xml"/>
+    <item id="t_indian" href="t_indian.html" media-type="application/xhtml+xml"/>
+    <item id="philip_p" href="philip_p.html" media-type="application/xhtml+xml"/>
+    <item id="s_hollow" href="s_hollow.html" media-type="application/xhtml+xml"/>
+    <item id="antiques" href="antiques.html" media-type="application/xhtml+xml"/>
+    <item id="sunday" href="sunday.html" media-type="application/xhtml+xml"/>
+    <item id="toc" properties="nav" href="toc.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="file3" href="widgets/style.css" media-type="text/css"/>
+    <item id="cover-image" href="cover.jpg" media-type="image/jpeg"/>
+    <item href="CUNY-imprint.jpg" id="id1" media-type="image/jpeg"/>
+    <item href="copyright.html" id="id2" media-type="application/xhtml+xml"/>
+    <item href="note.html" id="id3" media-type="application/xhtml+xml"/>
+    <item href="start.html" id="id4" media-type="application/xhtml+xml"/>
+    <item href="preface.html" id="id5" media-type="application/xhtml+xml"/>
+    <item href="advertisement.html" id="id6" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="id4"/>
+    <itemref idref="index"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="contents"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="himself"/>
+    <itemref idref="voyage"/>
+    <itemref idref="roscoe"/>
+    <itemref idref="wife"/>
+    <itemref idref="r_winkle"/>
+    <itemref idref="america"/>
+    <itemref idref="r_life"/>
+    <itemref idref="b_heart"/>
+    <itemref idref="art_book"/>
+    <itemref idref="r_poet"/>
+    <itemref idref="c_church"/>
+    <itemref idref="widow"/>
+    <itemref idref="b_tavern"/>
+    <itemref idref="mutabili"/>
+    <itemref idref="funerals"/>
+    <itemref idref="kitchen"/>
+    <itemref idref="spectre"/>
+    <itemref idref="w_abbey"/>
+    <itemref idref="christma"/>
+    <itemref idref="st_coach"/>
+    <itemref idref="c_eve"/>
+    <itemref idref="c_day"/>
+    <itemref idref="c_dinner"/>
+    <itemref idref="britain"/>
+    <itemref idref="stratfor"/>
+    <itemref idref="t_indian"/>
+    <itemref idref="philip_p"/>
+    <itemref idref="s_hollow"/>
+    <itemref idref="sunday"/>
+    <itemref idref="antiques"/>
+  </spine>
+</package>
